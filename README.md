@@ -1,2 +1,4 @@
 # Assignment3-ENSF692
-assignment 3 for ensf 692
+Author: Abdul Wasay
+Screenshot of Output:
+![screenshot](assign3-pic1.png)
