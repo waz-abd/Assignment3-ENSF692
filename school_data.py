@@ -4,7 +4,6 @@
 # A terminal-based application for computing and printing statistics based on given input.
 # You must include the main listed below. You may add your own additional classes, functions, variables, etc.
 # You may import any modules from the standard Python library.
-# Remember to include docstrings and comments.
 
 
 import numpy as np
